@@ -26,6 +26,3 @@ This portfolio was built to:
 - Skills Section
 - Contact Section
 - Resume Download Option
-
-```bash
-git clone https://github.com/yourusername/portfolio.git
